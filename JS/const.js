@@ -1,0 +1,2 @@
+const words=["Hola","jugar","nadar","camina","hablar","celula","silla","nada","cisne","agua","bolas","trapos","bote","mueble","doctor","calles","metros","lobo","manada","nomade","trabajo","bahias","acidos","almeja","numero","rotula","muela","mula","notas","aviso","retiro","techo"]
+const maxTries=6;
